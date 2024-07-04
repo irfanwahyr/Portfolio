@@ -1,4 +1,4 @@
-import profile from '../../assets/image/aqua.jpeg';
+import profile from '../../assets/svg/profile.svg';
 import TextHero from '../Element/Hero';
 import ButtonSosmed from '../Element/Hero/btn-sosmed';
 
